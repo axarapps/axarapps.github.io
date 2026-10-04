@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>aXar apps</title>
+<meta name="description" content="Free apps and games with no ads: Tap Arcade (one-tap games) and World Radio (live radio from 190 countries). Play in your browser.">
+<meta name="theme-color" content="#130E0A">
+<link rel="icon" href="assets/favicon.png">
+<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+<meta property="og:title" content="aXar apps">
+<meta property="og:description" content="Free apps and games. No ads. Play in your browser.">
+<meta property="og:image" content="https://axarapps.github.io/assets/og.png">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://axarapps.github.io/">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@600;800&family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+  :root { --bg: #130E0A; --panel: #1F1610; --line: #35271C; --text: #F2EBDD; --muted: #A8998A; --green: #3DDC6F; --on-green: #0E0A07; }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text); font: 400 16px/1.55 'DM Sans', system-ui, sans-serif; }
+  .wrap { max-width: 920px; margin: 0 auto; padding: max(20px, env(safe-area-inset-top)) 18px 56px; }
+  header { padding: 40px 0 28px; }
+  header img { width: min(260px, 70vw); height: auto; display: block; }
+  h1 { font: 800 clamp(28px, 6.5vw, 46px)/1.08 'Unbounded', sans-serif; letter-spacing: -.6px; margin: 26px 0 12px; text-wrap: balance; }
+  h1 span { color: var(--green); }
+  .lead { color: var(--muted); font-size: 18px; max-width: 54ch; margin: 0; }
+  .apps { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 380px), 1fr)); gap: 16px; margin-top: 32px; }
+  .app { display: grid; grid-template-columns: 96px 1fr; gap: 18px; align-items: center; padding: 20px; border-radius: 26px; background: var(--panel); border: 1px solid var(--line); text-decoration: none; color: inherit; transition: transform .15s ease, border-color .15s ease; }
+  .app:hover { transform: translateY(-2px); border-color: var(--green); }
+  .app:active { transform: scale(.985); }
+  .app:focus-visible { outline: 2px solid var(--green); outline-offset: 3px; }
+  .app img { width: 96px; height: 96px; border-radius: 22px; box-shadow: 0 8px 24px rgba(0,0,0,.45); }
+  .app h2 { font: 700 21px/1.15 'Unbounded', sans-serif; margin: 0 0 6px; }
+  .app p { margin: 0 0 12px; color: var(--muted); font-size: 15px; }
+  .go { display: inline-block; padding: 9px 18px; border-radius: 999px; background: var(--green); color: var(--on-green); font-weight: 700; font-size: 14px; }
+  .facts { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 28px; }
+  .facts span { padding: 7px 14px; border-radius: 999px; background: var(--panel); border: 1px solid var(--line); color: var(--muted); font-size: 13.5px; }
+  footer { margin-top: 48px; padding-top: 18px; border-top: 1px solid var(--line); display: flex; flex-wrap: wrap; gap: 8px 22px; color: var(--muted); font-size: 14px; }
+  footer a { color: var(--muted); }
+  @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <img src="assets/axar-wordmark.svg" alt="aXar" width="260" height="87">
+    <h1>Free apps and games.<br><span>No ads.</span></h1>
+    <p class="lead">Play in your browser, on any phone or computer. Install them on your home screen if you like, and they keep working offline.</p>
+  </header>
+
+  <main>
+    <div class="apps">
+      <a class="app" href="games/">
+        <img src="assets/tap-arcade.png" alt="" width="96" height="96">
+        <div>
+          <h2>Tap Arcade</h2>
+          <p>16 one-tap games: hop, stack, dodge, match and beat your best score.</p>
+          <span class="go">Play now</span>
+        </div>
+      </a>
+      <a class="app" href="radio/">
+        <img src="assets/world-radio.png" alt="" width="96" height="96">
+        <div>
+          <h2>World Radio</h2>
+          <p>Live radio from 190 countries. Search a country or a station and press play.</p>
+          <span class="go">Listen now</span>
+        </div>
+      </a>
+    </div>
+    <div class="facts"><span>No ads</span><span>No sign-up</span><span>Works offline</span><span>Free</span></div>
+  </main>
+
+  <footer>
+    <span>© aXar</span>
+    <a href="games/privacy.html">Privacy: Tap Arcade</a>
+    <a href="radio/privacy.html">Privacy: World Radio</a>
+    <a href="mailto:akarafilovski@gmail.com">Contact</a>
+  </footer>
+</div>
+</body>
+</html>
