@@ -6,25 +6,25 @@
    "title": "Arcade games",
    "apps": [
     {
-     "package": "com.axar.eventhorizon",
-     "name": "Event Horizon: Antigravity",
-     "description": "(max 80)",
-     "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.eventhorizon",
-     "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.eventhorizon.png"
+     "package": "com.axar.rewindrush",
+     "name": "Rewind Rush: Time Runner",
+     "description": "Run, stomp and rewind time. A neon runner with a chaser right behind you.",
+     "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.rewindrush",
+     "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.rewindrush.png"
     },
     {
      "package": "com.axar.rewinddrift",
      "name": "Rewind Drift: Police Chase",
-     "description": "(max 80)",
+     "description": "Drift past the cops, ram them off the road and rewind your crashes.",
      "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.rewinddrift",
      "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.rewinddrift.png"
     },
     {
-     "package": "com.axar.rewindrush",
-     "name": "Rewind Rush: Time Runner",
-     "description": "(max 80)",
-     "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.rewindrush",
-     "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.rewindrush.png"
+     "package": "com.axar.eventhorizon",
+     "name": "Event Horizon: Antigravity",
+     "description": "Push away from a growing black hole. Escape sector after sector.",
+     "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.eventhorizon",
+     "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.eventhorizon.png"
     },
     {
      "package": "com.axar.stoptheclock",
@@ -130,6 +130,13 @@
      "description": "Flip gravity and thread the gates.",
      "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.flip",
      "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.flip.png"
+    },
+    {
+     "package": "com.axar.pegdrop",
+     "name": "Peg Drop",
+     "description": "Tap to drop the ball through the pegs. Land in a big slot to win a ball back.",
+     "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.pegdrop",
+     "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.pegdrop.png"
     }
    ]
   },
@@ -156,6 +163,90 @@
      "description": "Radio, TV and news from every country.",
      "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.tuno",
      "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.tuno.png"
+    },
+    {
+     "package": "com.axar.croatianradios",
+     "name": "Radio Croatia",
+     "description": "Live radio stations from Croatia.",
+     "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.croatianradios",
+     "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.croatianradios.png"
+    },
+    {
+     "package": "com.axar.slovenianradios",
+     "name": "Radio Slovenia",
+     "description": "Live radio stations from Slovenia.",
+     "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.slovenianradios",
+     "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.slovenianradios.png"
+    },
+    {
+     "package": "com.axar.bulgarianradios",
+     "name": "Radio Bulgaria",
+     "description": "Live radio stations from Bulgaria.",
+     "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.bulgarianradios",
+     "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.bulgarianradios.png"
+    },
+    {
+     "package": "com.axar.serbianradios",
+     "name": "Radio Serbia",
+     "description": "Live radio stations from Serbia.",
+     "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.serbianradios",
+     "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.serbianradios.png"
+    },
+    {
+     "package": "com.axar.romanianradios",
+     "name": "Radio Romania",
+     "description": "Live radio stations from Romania.",
+     "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.romanianradios",
+     "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.romanianradios.png"
+    },
+    {
+     "package": "com.axar.makmedia",
+     "name": "Radio MK",
+     "description": "Live radio stations from MK.",
+     "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.makmedia",
+     "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.makmedia.png"
+    },
+    {
+     "package": "com.axar.dutchradios",
+     "name": "Radio Netherlands",
+     "description": "Live radio stations from Netherlands.",
+     "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.dutchradios",
+     "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.dutchradios.png"
+    },
+    {
+     "package": "com.axar.greekradios",
+     "name": "Radio Greece",
+     "description": "Live radio stations from Greece.",
+     "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.greekradios",
+     "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.greekradios.png"
+    },
+    {
+     "package": "com.axar.montenegrinradios",
+     "name": "Radio Montenegro",
+     "description": "Live radio stations from Montenegro.",
+     "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.montenegrinradios",
+     "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.montenegrinradios.png"
+    },
+    {
+     "package": "com.axar.bosnianradios",
+     "name": "Radio Bosnia",
+     "description": "Live radio stations from Bosnia.",
+     "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.bosnianradios",
+     "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.bosnianradios.png"
+    },
+    {
+     "package": "com.axar.turkishradios",
+     "name": "Radio Turkey",
+     "description": "Live radio stations from Turkey.",
+     "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.turkishradios",
+     "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.turkishradios.png"
+    },
+    {
+     "package": "com.axar.hungarianradios",
+     "name": "Radio Hungary",
+     "description": "Live radio stations from Hungary.",
+     "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.hungarianradios",
+     "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.hungarianradios.png"
     }
    ]
   },
