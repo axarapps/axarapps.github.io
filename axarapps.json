@@ -6,27 +6,6 @@
    "title": "Arcade games",
    "apps": [
     {
-     "package": "com.axar.rewindrush",
-     "name": "Rewind Rush: Time Runner",
-     "description": "Run, stomp and rewind time. A neon runner with a chaser right behind you.",
-     "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.rewindrush",
-     "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.rewindrush.png"
-    },
-    {
-     "package": "com.axar.rewinddrift",
-     "name": "Rewind Drift: Police Chase",
-     "description": "Drift past the cops, ram them off the road and rewind your crashes.",
-     "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.rewinddrift",
-     "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.rewinddrift.png"
-    },
-    {
-     "package": "com.axar.eventhorizon",
-     "name": "Event Horizon: Antigravity",
-     "description": "Push away from a growing black hole. Escape sector after sector.",
-     "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.eventhorizon",
-     "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.eventhorizon.png"
-    },
-    {
      "package": "com.axar.stoptheclock",
      "name": "Stop the Clock",
      "description": "Stop the hand in the green arc. Hit the bullseye.",
@@ -130,32 +109,6 @@
      "description": "Flip gravity and thread the gates.",
      "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.flip",
      "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.flip.png"
-    }
-   ]
-  },
-  {
-   "id": "kids",
-   "title": "For little ones",
-   "apps": [
-    {
-     "package": "com.axar.toybox",
-     "name": "Tiny Toybox",
-     "description": "Animals, balloons and shapes for toddlers. No ads.",
-     "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.toybox",
-     "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.toybox.png"
-    }
-   ]
-  },
-  {
-   "id": "radio_tv",
-   "title": "Radio, TV and news",
-   "apps": [
-    {
-     "package": "com.axar.tuno",
-     "name": "TUNO",
-     "description": "Radio, TV and news from every country.",
-     "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.tuno",
-     "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.tuno.png"
     }
    ]
   },
