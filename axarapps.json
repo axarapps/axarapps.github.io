@@ -13,20 +13,6 @@
           "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.rewindrush.png"
         },
         {
-          "package": "com.axar.rewinddrift",
-          "name": "Rewind Drift: Police Chase",
-          "description": "Drift past the cops, ram them off the road and rewind your crashes.",
-          "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.rewinddrift",
-          "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.rewinddrift.png"
-        },
-        {
-          "package": "com.axar.eventhorizon",
-          "name": "Event Horizon: Antigravity",
-          "description": "Push away from a growing black hole. Escape sector after sector.",
-          "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.eventhorizon",
-          "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.eventhorizon.png"
-        },
-        {
           "package": "com.axar.stoptheclock",
           "name": "Stop the Clock",
           "description": "Stop the hand in the green arc. Hit the bullseye.",
