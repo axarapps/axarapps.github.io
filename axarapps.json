@@ -1,192 +1,213 @@
 {
- "version": 1,
- "sections": [
-  {
-   "id": "arcade_games",
-   "title": "Arcade games",
-   "apps": [
+  "version": 1,
+  "sections": [
     {
-     "package": "com.axar.stoptheclock",
-     "name": "Stop the Clock",
-     "description": "Stop the hand in the green arc. Hit the bullseye.",
-     "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.stoptheclock",
-     "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.stoptheclock.png"
+      "id": "arcade_games",
+      "title": "Arcade games",
+      "apps": [
+        {
+          "package": "com.axar.rewindrush",
+          "name": "Rewind Rush: Time Runner",
+          "description": "Run, stomp and rewind time. A neon runner with a chaser right behind you.",
+          "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.rewindrush",
+          "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.rewindrush.png"
+        },
+        {
+          "package": "com.axar.rewinddrift",
+          "name": "Rewind Drift: Police Chase",
+          "description": "Drift past the cops, ram them off the road and rewind your crashes.",
+          "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.rewinddrift",
+          "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.rewinddrift.png"
+        },
+        {
+          "package": "com.axar.eventhorizon",
+          "name": "Event Horizon: Antigravity",
+          "description": "Push away from a growing black hole. Escape sector after sector.",
+          "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.eventhorizon",
+          "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.eventhorizon.png"
+        },
+        {
+          "package": "com.axar.stoptheclock",
+          "name": "Stop the Clock",
+          "description": "Stop the hand in the green arc. Hit the bullseye.",
+          "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.stoptheclock",
+          "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.stoptheclock.png"
+        },
+        {
+          "package": "com.axar.misfit",
+          "name": "Misfit",
+          "description": "Find the shape that is different. The gap keeps shrinking.",
+          "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.misfit",
+          "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.misfit.png"
+        },
+        {
+          "package": "com.axar.sortit",
+          "name": "Sort It",
+          "description": "Send each item to its bin. Every ten sorts the bins swap.",
+          "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.sortit",
+          "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.sortit.png"
+        },
+        {
+          "package": "com.axar.bounceup",
+          "name": "Bounce Up",
+          "description": "Steer a bouncing ball up. Skip platforms for bonus points.",
+          "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.bounceup",
+          "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.bounceup.png"
+        },
+        {
+          "package": "com.axar.ringrunner",
+          "name": "Ring Runner",
+          "description": "Circle the track and switch lanes. Inner lanes pay more.",
+          "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.ringrunner",
+          "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.ringrunner.png"
+        },
+        {
+          "package": "com.axar.pulsetap",
+          "name": "Pulse Tap",
+          "description": "Tap the instant a ring lands on its target.",
+          "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.pulsetap",
+          "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.pulsetap.png"
+        },
+        {
+          "package": "com.axar.smashdown",
+          "name": "Smash Down",
+          "description": "Hold to smash through the rows. Black means game over.",
+          "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.smashdown",
+          "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.smashdown.png"
+        },
+        {
+          "package": "com.axar.echopads",
+          "name": "Echo Pads",
+          "description": "Watch the pads, repeat the pattern. It only grows.",
+          "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.echopads",
+          "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.echopads.png"
+        },
+        {
+          "package": "com.axar.tapbeat",
+          "name": "Tap Beat",
+          "description": "One lane of falling notes. Tap and hold to the beat.",
+          "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.tapbeat",
+          "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.tapbeat.png"
+        },
+        {
+          "package": "com.axar.splitstep",
+          "name": "Split Step",
+          "description": "Switch between one ball and two to slip through every gate.",
+          "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.splitstep",
+          "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.splitstep.png"
+        },
+        {
+          "package": "com.axar.orbit",
+          "name": "Orbit Hop",
+          "description": "Leap from ring to ring. Skip a few for bonus points.",
+          "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.orbit",
+          "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.orbit.png"
+        },
+        {
+          "package": "com.axar.tower",
+          "name": "Tower Stack",
+          "description": "Stack blocks to the sky. Perfect drops build streaks.",
+          "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.tower",
+          "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.tower.png"
+        },
+        {
+          "package": "com.axar.zig",
+          "name": "Zig Zag Turn",
+          "description": "Turn at every corner. The path fades as you climb.",
+          "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.zig",
+          "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.zig.png"
+        },
+        {
+          "package": "com.axar.shapematcher",
+          "name": "Shape Matcher",
+          "description": "Same shape? Tap. Different? Hands off.",
+          "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.shapematcher",
+          "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.shapematcher.png"
+        },
+        {
+          "package": "com.axar.flip",
+          "name": "Gravity Flip",
+          "description": "Flip gravity and thread the gates.",
+          "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.flip",
+          "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.flip.png"
+        }
+      ]
     },
     {
-     "package": "com.axar.misfit",
-     "name": "Misfit",
-     "description": "Find the shape that is different. The gap keeps shrinking.",
-     "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.misfit",
-     "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.misfit.png"
-    },
-    {
-     "package": "com.axar.sortit",
-     "name": "Sort It",
-     "description": "Send each item to its bin. Every ten sorts the bins swap.",
-     "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.sortit",
-     "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.sortit.png"
-    },
-    {
-     "package": "com.axar.bounceup",
-     "name": "Bounce Up",
-     "description": "Steer a bouncing ball up. Skip platforms for bonus points.",
-     "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.bounceup",
-     "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.bounceup.png"
-    },
-    {
-     "package": "com.axar.ringrunner",
-     "name": "Ring Runner",
-     "description": "Circle the track and switch lanes. Inner lanes pay more.",
-     "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.ringrunner",
-     "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.ringrunner.png"
-    },
-    {
-     "package": "com.axar.pulsetap",
-     "name": "Pulse Tap",
-     "description": "Tap the instant a ring lands on its target.",
-     "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.pulsetap",
-     "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.pulsetap.png"
-    },
-    {
-     "package": "com.axar.smashdown",
-     "name": "Smash Down",
-     "description": "Hold to smash through the rows. Black means game over.",
-     "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.smashdown",
-     "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.smashdown.png"
-    },
-    {
-     "package": "com.axar.echopads",
-     "name": "Echo Pads",
-     "description": "Watch the pads, repeat the pattern. It only grows.",
-     "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.echopads",
-     "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.echopads.png"
-    },
-    {
-     "package": "com.axar.tapbeat",
-     "name": "Tap Beat",
-     "description": "One lane of falling notes. Tap and hold to the beat.",
-     "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.tapbeat",
-     "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.tapbeat.png"
-    },
-    {
-     "package": "com.axar.splitstep",
-     "name": "Split Step",
-     "description": "Switch between one ball and two to slip through every gate.",
-     "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.splitstep",
-     "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.splitstep.png"
-    },
-    {
-     "package": "com.axar.orbit",
-     "name": "Orbit Hop",
-     "description": "Leap from ring to ring. Skip a few for bonus points.",
-     "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.orbit",
-     "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.orbit.png"
-    },
-    {
-     "package": "com.axar.tower",
-     "name": "Tower Stack",
-     "description": "Stack blocks to the sky. Perfect drops build streaks.",
-     "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.tower",
-     "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.tower.png"
-    },
-    {
-     "package": "com.axar.zig",
-     "name": "Zig Zag Turn",
-     "description": "Turn at every corner. The path fades as you climb.",
-     "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.zig",
-     "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.zig.png"
-    },
-    {
-     "package": "com.axar.shapematcher",
-     "name": "Shape Matcher",
-     "description": "Same shape? Tap. Different? Hands off.",
-     "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.shapematcher",
-     "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.shapematcher.png"
-    },
-    {
-     "package": "com.axar.flip",
-     "name": "Gravity Flip",
-     "description": "Flip gravity and thread the gates.",
-     "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.flip",
-     "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.flip.png"
+      "id": "wellness_apps",
+      "title": "Wellness",
+      "apps": [
+        {
+          "package": "com.axar.asanas",
+          "name": "Asanas",
+          "description": "100 yoga poses & asanas with clear line-art, a timer, and a journal.",
+          "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.asanas",
+          "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.asanas.png"
+        },
+        {
+          "package": "com.axar.prana",
+          "name": "Prana",
+          "description": "Breathing exercises & breathwork — guided timer for focus, calm, sleep.",
+          "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.prana",
+          "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.prana.png"
+        },
+        {
+          "package": "com.axar.bandha",
+          "name": "Bandha",
+          "description": "Pelvic floor exercises, hip mobility & Sensate Focus — real techniques.",
+          "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.bandha",
+          "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.bandha.png"
+        },
+        {
+          "package": "com.axar.dhyana",
+          "name": "Dhyana",
+          "description": "24 real meditation techniques across 8 traditions, with a timer and journal.",
+          "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.dhyana",
+          "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.dhyana.png"
+        },
+        {
+          "package": "com.axar.vyayama",
+          "name": "Vyayama",
+          "description": "24 real stretches across 8 body-region families, with a timer and journal.",
+          "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.vyayama",
+          "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.vyayama.png"
+        },
+        {
+          "package": "com.axar.mukha",
+          "name": "Mukha",
+          "description": "32 real face-yoga exercises across 8 face-region families, with a timer and journal.",
+          "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.mukha",
+          "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.mukha.png"
+        },
+        {
+          "package": "com.axar.marma",
+          "name": "Marma",
+          "description": "28 real Ayurvedic marma points across 8 body families, with a press timer and journal.",
+          "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.marma",
+          "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.marma.png"
+        },
+        {
+          "package": "com.axar.netra",
+          "name": "Netra",
+          "description": "14 real eye exercises for vision strain and focus, with a practice timer and journal.",
+          "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.netra",
+          "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.netra.png"
+        },
+        {
+          "package": "com.axar.mudras",
+          "name": "Mudras",
+          "description": "Hand mudras for yoga & meditation — technique, benefits, and a timer.",
+          "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.mudras",
+          "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.mudras.png"
+        },
+        {
+          "package": "com.axar.kamasutra",
+          "name": "Kama Sutra",
+          "description": "100 Kama Sutra positions with tasteful line-art for couples to explore.",
+          "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.kamasutra",
+          "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.kamasutra.png"
+        }
+      ]
     }
-   ]
-  },
-  {
-   "id": "wellness_apps",
-   "title": "Wellness",
-   "apps": [
-    {
-     "package": "com.axar.asanas",
-     "name": "Asanas",
-     "description": "100 yoga poses & asanas with clear line-art, a timer, and a journal.",
-     "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.asanas",
-     "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.asanas.png"
-    },
-    {
-     "package": "com.axar.prana",
-     "name": "Prana",
-     "description": "Breathing exercises & breathwork — guided timer for focus, calm, sleep.",
-     "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.prana",
-     "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.prana.png"
-    },
-    {
-     "package": "com.axar.bandha",
-     "name": "Bandha",
-     "description": "Pelvic floor exercises, hip mobility & Sensate Focus — real techniques.",
-     "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.bandha",
-     "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.bandha.png"
-    },
-    {
-     "package": "com.axar.dhyana",
-     "name": "Dhyana",
-     "description": "24 real meditation techniques across 8 traditions, with a timer and journal.",
-     "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.dhyana",
-     "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.dhyana.png"
-    },
-    {
-     "package": "com.axar.vyayama",
-     "name": "Vyayama",
-     "description": "24 real stretches across 8 body-region families, with a timer and journal.",
-     "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.vyayama",
-     "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.vyayama.png"
-    },
-    {
-     "package": "com.axar.mukha",
-     "name": "Mukha",
-     "description": "32 real face-yoga exercises across 8 face-region families, with a timer and journal.",
-     "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.mukha",
-     "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.mukha.png"
-    },
-    {
-     "package": "com.axar.marma",
-     "name": "Marma",
-     "description": "28 real Ayurvedic marma points across 8 body families, with a press timer and journal.",
-     "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.marma",
-     "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.marma.png"
-    },
-    {
-     "package": "com.axar.netra",
-     "name": "Netra",
-     "description": "14 real eye exercises for vision strain and focus, with a practice timer and journal.",
-     "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.netra",
-     "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.netra.png"
-    },
-    {
-     "package": "com.axar.mudras",
-     "name": "Mudras",
-     "description": "Hand mudras for yoga & meditation — technique, benefits, and a timer.",
-     "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.mudras",
-     "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.mudras.png"
-    },
-    {
-     "package": "com.axar.kamasutra",
-     "name": "Kama Sutra",
-     "description": "100 Kama Sutra positions with tasteful line-art for couples to explore.",
-     "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.kamasutra",
-     "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.kamasutra.png"
-    }
-   ]
-  }
- ]
+  ]
 }
