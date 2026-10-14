@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "sections": [
     {
       "id": "arcade_games",
@@ -220,6 +220,19 @@
           "description": "100 Kama Sutra positions with tasteful line-art for couples to explore.",
           "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.kamasutra",
           "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.kamasutra.png"
+        }
+      ]
+    },
+    {
+      "id": "kids_apps",
+      "title": "For kids",
+      "apps": [
+        {
+          "package": "com.axar.toybox",
+          "name": "Tiny Toybox: Toddler Games",
+          "description": "Animal sounds, counting, colours, shapes and ABC games for toddlers. No ads.",
+          "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.toybox",
+          "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.toybox.png"
         }
       ]
     }
