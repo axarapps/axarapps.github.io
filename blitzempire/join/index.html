@@ -21,14 +21,14 @@
   <p>A friend invited you to a room.</p>
   <div class="code" id="code">----</div>
   <a class="btn" id="open" href="#">Open the game</a>
-  <a class="ghost" href="https://play.google.com/store/apps/details?id=com.axar.tinyempire">Do not have it yet? Get it on Google Play</a>
+  <a class="ghost" href="https://play.google.com/store/apps/details?id=com.axar.blitzempire">Do not have it yet? Get it on Google Play</a>
 </main>
 <script>
   var c = (new URLSearchParams(location.search).get('c') || '').toUpperCase().replace(/[^A-Z]/g, '').slice(0, 4);
   document.getElementById('code').textContent = c || '----';
   var open = document.getElementById('open');
   if (c.length === 4) {
-    open.href = 'tinyempire://join/' + c;
+    open.href = 'blitzempire://join/' + c;
     // on a phone with the game, jump straight in
     if (/android/i.test(navigator.userAgent)) setTimeout(function () { location.href = open.href; }, 400);
   } else {
