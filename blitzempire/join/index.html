@@ -21,12 +21,15 @@
   <p>A friend invited you to a room.</p>
   <div class="code" id="code">----</div>
   <a class="btn" id="open" href="#">Open the game</a>
-  <a class="ghost" href="https://play.google.com/store/apps/details?id=com.axar.blitzempire">Do not have it yet? Get it on Google Play</a>
+  <a class="btn" id="web" href="https://axarapps.github.io/games/blitzempire/">Play in your browser</a>
+  <a class="ghost" href="https://play.google.com/store/apps/details?id=com.axar.blitzempire">Or get the Android app</a>
 </main>
 <script>
   var c = (new URLSearchParams(location.search).get('c') || '').toUpperCase().replace(/[^A-Z]/g, '').slice(0, 4);
   document.getElementById('code').textContent = c || '----';
   var open = document.getElementById('open');
+  var web = document.getElementById('web');
+  if (c.length === 4) web.href = 'https://axarapps.github.io/games/blitzempire/?c=' + c;
   if (c.length === 4) {
     open.href = 'blitzempire://join/' + c;
     // on a phone with the game, jump straight in
