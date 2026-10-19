@@ -148,19 +148,6 @@
       ]
     },
     {
-      "id": "multiplayer",
-      "title": "Play with friends",
-      "apps": [
-        {
-          "package": "com.axar.blitzempire",
-          "name": "Blitz Empire",
-          "description": "Take the table before time runs out. Up to six players online, in the browser or on Android.",
-          "playstore_url": "https://axarapps.github.io/blitzempire/",
-          "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.blitzempire.png"
-        }
-      ]
-    },
-    {
       "id": "wellness_apps",
       "title": "Wellness",
       "apps": [
