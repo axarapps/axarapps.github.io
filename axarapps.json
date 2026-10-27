@@ -235,6 +235,19 @@
           "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.toybox.png"
         }
       ]
+    },
+    {
+      "id": "media_apps",
+      "title": "Radio & TV",
+      "apps": [
+        {
+          "package": "com.axar.tuno",
+          "name": "TUNO: Radio, TV & News",
+          "description": "Live radio, TV and news from every country. Free, no ads, no sign-up.",
+          "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.tuno",
+          "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.tuno.png"
+        }
+      ]
     }
   ]
 }
