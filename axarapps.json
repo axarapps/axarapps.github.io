@@ -248,6 +248,19 @@
           "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.tuno.png"
         }
       ]
+    },
+    {
+      "id": "finance_apps",
+      "title": "Finance",
+      "apps": [
+        {
+          "package": "com.axar.koin",
+          "name": "Koin: Budget & Expense Tracker",
+          "description": "Track spending, plan each month and keep funds. Works offline, no ads, no account.",
+          "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.koin",
+          "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.koin.png"
+        }
+      ]
     }
   ]
 }
