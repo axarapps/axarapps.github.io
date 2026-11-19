@@ -148,6 +148,19 @@
       ]
     },
     {
+      "id": "puzzle_games",
+      "title": "Puzzle games",
+      "apps": [
+        {
+          "package": "com.axar.thinkgrid",
+          "name": "ThinkGrid: Logic, Math, Words",
+          "description": "16 logic, number and word puzzles with a daily challenge. Offline, no ads.",
+          "playstore_url": "https://play.google.com/store/apps/details?id=com.axar.thinkgrid",
+          "icon_url": "https://axarapps.github.io/catalog/icons/com.axar.thinkgrid.png"
+        }
+      ]
+    },
+    {
       "id": "wellness_apps",
       "title": "Wellness",
       "apps": [
