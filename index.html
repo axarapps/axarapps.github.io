@@ -35,6 +35,7 @@
   .app img { width: 96px; height: 96px; border-radius: 22px; box-shadow: 0 8px 24px rgba(0,0,0,.45); }
   .app h2 { font: 700 21px/1.15 'Unbounded', sans-serif; margin: 0 0 6px; }
   .app p { margin: 0 0 12px; color: var(--muted); font-size: 15px; }
+  .gp { display: inline-block; margin-left: 14px; font-size: 13px; color: var(--muted); text-decoration: underline; cursor: pointer; }
   .go { display: inline-block; padding: 9px 18px; border-radius: 999px; background: var(--green); color: var(--on-green); font-weight: 700; font-size: 14px; }
   .facts { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 28px; }
   .facts span { padding: 7px 14px; border-radius: 999px; background: var(--panel); border: 1px solid var(--line); color: var(--muted); font-size: 13.5px; }
@@ -67,6 +68,7 @@
           <h2>Blitz Empire</h2>
           <p>A fast conquest game for up to six players. Play online with friends, in the browser or on Android.</p>
           <span class="go">Play now</span>
+          <span class="gp" data-href="https://play.google.com/store/apps/details?id=com.axar.blitzempire">Also on Google Play</span>
         </div>
       </a>
       <a class="app" href="thinkgrid/">
@@ -83,6 +85,7 @@
           <h2>TUNO</h2>
           <p>Live radio from 190 countries. Search a country or a station and press play.</p>
           <span class="go">Listen now</span>
+          <span class="gp" data-href="https://play.google.com/store/apps/details?id=com.axar.tuno">Google Play</span>
         </div>
       </a>
 
@@ -92,6 +95,7 @@
           <h2>Wellness Guides</h2>
           <p>Yoga poses, mudras, breathing, meditation, stretches and more, with illustrations and clear steps.</p>
           <span class="go">Explore</span>
+          <span class="gp" data-href="wellness/#gplay">Also on Google Play</span>
         </div>
       </a>
     </div>
@@ -107,5 +111,14 @@
     <a href="mailto:akarafilovski@gmail.com">Contact</a>
   </footer>
 </div>
+<script>
+document.addEventListener('click', function (e) {
+  var g = e.target.closest('.gp');
+  if (!g) return;
+  e.preventDefault();
+  var u = g.getAttribute('data-href');
+  if (/^https:/.test(u)) window.open(u, '_blank', 'noopener'); else location.href = u;
+});
+</script>
 </body>
 </html>
